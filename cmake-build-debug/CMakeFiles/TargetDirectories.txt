@@ -1,0 +1,3 @@
+C:/Users/serra/OneDrive/Documentos/!!!Universidad/FP/ficheros_2/cmake-build-debug/CMakeFiles/ficheros_2.dir
+C:/Users/serra/OneDrive/Documentos/!!!Universidad/FP/ficheros_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/serra/OneDrive/Documentos/!!!Universidad/FP/ficheros_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
